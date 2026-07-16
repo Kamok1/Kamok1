@@ -10,11 +10,9 @@ I'm passionate about building things from scratch — from idea to deployment.
 Most of my work focuses on **e-commerce platforms** using **.NET technologies**, but I also enjoy working on fullstack solutions.  
 I’ve built and deployed my own Vue.js project [solar-care.pl](https://www.solar-care.pl), fully self-hosted on an Apache server configured manually.  
 
-I love learning new tools and frameworks, automating things, and seeing ideas come to life in code.
+I also designed, developed, and deployed [equindi.pl](https://equindi.pl) - a full-stack platform for creating personalized equestrian saddle pads. It features an interactive 3D configurator built with Angular and Three.js, a .NET backend, PostgreSQL, custom graphics and embroidery uploads, order management, automated emails, and a Docker-based production environment. I built the project end-to-end - from the product configurator and API to deployment, security, SEO, and administration tools.
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" >
-  <img src="https://github-profile-trophy.vercel.app/?username=kamok1&rank=-C,-B&title=-Stars&theme=onestar&no-bg=true" alt="kamok1 trophies" />
-</a>
+I love learning new tools and frameworks, automating things, and seeing ideas come to life in code.
 
 
 <h3 align="center">🔗 Connect with me</h3>
